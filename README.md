@@ -16,4 +16,4 @@ Link del video: https://www.youtube.com/watch?v=GJ_XQAH4JKc&feature=youtu.be
 
 Como curiosidad he añadido un botón que permite compartir el juego en Facebook. 
 
-Link del video: 
+Link del video:  http://youtu.be/-CO01ZF_JGU
