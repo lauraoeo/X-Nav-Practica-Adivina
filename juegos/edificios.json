@@ -1,0 +1,45 @@
+{ "type": "FeatureCollection",
+   "features": [
+     { "type": "Feature",
+       "coordinates": {"lat":25.197517, "long":55.277219},
+       "properties": {"name": "Burj Khalifa"}
+       },
+     { "type": "Feature",
+       "coordinates": {"lat":25.033918, "long":121.565615},
+       "properties": {"name": "Taipei 101"}
+       },
+     { "type": "Feature",
+       "coordinates": {"lat":41.878748, "long": -87.635722},
+       "properties": {"name": "Willis Tower"}
+       },
+     { "type": "Feature",
+       "coordinates": {"lat": 40.749155, "long":-73.985149},
+       "properties": {"name": "Empire State Building"}
+     },
+     { "type": "Feature",    
+       "coordinates": {"lat":32.060712, "long":118.783104},
+       "properties": {"name": "Torre Zifeng"}
+     },
+     { "type": "Feature",
+       "coordinates": {"lat":25.141553, "long":55.185670},
+       "properties": {"name": "Burj Al Arab"}
+     },
+     { "type": "Feature",
+       "coordinates": {"lat":41.402262, "long":2.190666},
+       "properties": {"name": "Torre Agbar"}
+     },
+     { "type": "Feature",
+       "coordinates": {"lat":22.545233, "long":114.105733},
+       "properties": {"name": "kingkey 100"}
+     },
+     { "type": "Feature",
+       "coordinates": {"lat":43.644600, "long":-79.386070},
+       "properties": {"name": "CN Tower"}
+     },
+     { "type": "Feature",
+       "coordinates": {"lat":40.713251, "long": -74.011973},
+       "properties": {"name": "One World Trade Center tower"}
+     }
+      ]
+    }
+

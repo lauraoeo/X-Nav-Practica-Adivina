@@ -1,0 +1,44 @@
+{ "type": "FeatureCollection",
+    "features": [
+      { "type": "Feature",
+        "coordinates": {"lat":40.426329, "long":-3.710779},
+        "properties": {"name": "Madrid"}
+        },
+      { "type": "Feature",
+        "coordinates": {"lat":48.860327, "long":2.348777},
+        "properties": {"name": "Paris"}
+        },
+      { "type": "Feature",
+        "coordinates": {"lat":41.909816, "long":12.495486},
+        "properties": {"name": "Rome"}
+        },
+      { "type": "Feature",
+        "coordinates": {"lat":40.749155, "long":-73.985149},
+        "properties": {"name": "New York"}
+      },
+      { "type": "Feature",
+        "coordinates": {"lat":51.511338, "long":-0.120825},
+        "properties": {"name": "London"}
+      },
+      { "type": "Feature",
+        "coordinates": {"lat":38.899082, "long":-77.024180},
+        "properties": {"name": "Washington D.C."}
+      },
+      { "type": "Feature",
+        "coordinates": {"lat":45.392100, "long":-75.679407},
+        "properties": {"name": "Ottawa"}
+      },
+      { "type": "Feature",
+        "coordinates": {"lat":55.721958, "long":37.666827},
+        "properties": {"name": "Moscu"}
+      },
+      { "type": "Feature",
+        "coordinates": {"lat":35.710792, "long":139.733996},
+        "properties": {"name": "Tokyo"}
+      },
+      { "type": "Feature",
+        "coordinates": {"lat":-33.890453, "long":151.231423},
+        "properties": {"name": "Nueva Delhi"}
+      }
+       ]
+     }

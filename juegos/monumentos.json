@@ -1,0 +1,44 @@
+{ "type": "FeatureCollection",
+    "features": [
+      { "type": "Feature",
+        "coordinates": {"lat":40.749155, "long":-73.985149},
+        "properties": {"name": "Liberty Statue"}
+        },
+      { "type": "Feature",
+        "coordinates": {"lat": 29.975175, "long": 31.137652},
+        "properties": {"name": "Egyptian sphinx"}
+        },
+      { "type": "Feature",
+        "coordinates": {"lat":38.899082, "long":-77.024180},
+        "properties": {"name": "washington monument"}
+        },
+      { "type": "Feature",
+        "coordinates": {"lat": -22.951946, "long": -43.210707}, 
+        "properties": {"name": "Corcovado Christ"}
+      },
+      { "type": "Feature",
+        "coordinates": {"lat": 20.684084, "long":-88.568157},
+        "properties": {"name": "Chichen Itza"}
+      },
+      { "type": "Feature",  
+        "coordinates": {"lat":27.174991, "long":78.042010},
+        "properties": {"name": "Taj Mahal"}
+      },
+      { "type": "Feature",
+        "coordinates": {"lat":43.878113, "long":-103.460697}, 
+        "properties": {"name": "Rushmore mount"}
+      },
+      { "type": "Feature", 
+        "coordinates": {"lat": 48.873658, "long": 2.294336}, 
+        "properties": {"name": "Triumphal arch"}
+      },
+      { "type": "Feature",
+        "coordinates": {"lat":48.858539, "long": 2.293757}, 
+        "properties": {"name": "Eiffel tower"}
+      },
+      { "type": "Feature",
+        "coordinates": {"lat":43.722677, "long":10.395916},
+        "properties": {"name": "Tower of pisa"}
+      }
+       ]
+     }
